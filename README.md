@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m ITO1103(@ITO1103)
+<h2>About Me</h2>
+<ul>
+    <li>College Student B2</li>
+    <li>I'm a member of a very interesting club</li>
+    <li>I’m interested in security field</li>
+</ul>
 
 <h2>Club</h2>
 情報処理研究部[EDP-KEN]<br>
 https://www.edp-ken.com/
 
-<h2>Now</h2>
-<ul>
-    <li>College Student B2</li>
-
-</ul>
 <h2>My Experience</h2>
 <ul>
     <li>2023年4月4日</li>
@@ -33,6 +34,6 @@ https://www.edp-ken.com/
 </ul>
 <ul>
     <li>2022年11月19日</li>
-    seccon2022 [ロバストL1通信競技]
-    (使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
+    seccon2022 [ロバストL1通信競技]<br>
+    使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
 </ul>
