@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 👋 Hi, I’m ITO1103(@ITO1103)
 
 <h2>Club</h2>
-情報処理研究部[EDP-KEN]
+情報処理研究部[EDP-KEN]<br>
 https://www.edp-ken.com/
+
+<h2>Now</h2>
+
+
+<h2>My Experience</h2>
+- 2022年11月19日 
+seccon2022 ロバストL1通信競技
+(使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
+※secconが終わり次第、大会で使用したプログラムを反映させます。 
