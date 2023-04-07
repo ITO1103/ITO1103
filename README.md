@@ -28,7 +28,7 @@ https://www.edp-ken.com/
 <h2>My Experience</h2>
 <ul>
     <li>2023年4月4日</li>
-    J-1 Grand Prix Alpha版リリース
+    J-1 Grand Prix Alpha版リリース<br>
     https://www.edp-ken.com/tag/contents/
 </ul>
 <ul>
