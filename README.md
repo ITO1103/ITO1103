@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 https://www.edp-ken.com/
 
 <h2>Now</h2>
+<ul>
+    <li>College Student B2</li>
 
 
 <h2>My Experience</h2>
 <ul>
     <li>2022年11月19日</li>
- 
-seccon2022 [ロバストL1通信競技]
-(使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
+    seccon2022 [ロバストL1通信競技]
+    (使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
 </ul>
