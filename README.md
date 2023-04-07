@@ -24,6 +24,9 @@ https://www.edp-ken.com/
 
 
 <h2>My Experience</h2>
-- 2022年11月19日 
+<ul>
+    <li>2022年11月19日</li>
+ 
 seccon2022 [ロバストL1通信競技]
 (使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
+</ul>
