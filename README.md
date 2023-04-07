@@ -30,7 +30,7 @@ https://www.edp-ken.com/
     <li>2023年4月4日</li>
     J-1 Grand Prix Alpha版リリース
     https://www.edp-ken.com/tag/contents/
-<ul>
+</ul>
 <ul>
     <li>2022年11月19日</li>
     seccon2022 [ロバストL1通信競技]
