@@ -27,6 +27,10 @@ https://www.edp-ken.com/
 </ul>
 <h2>My Experience</h2>
 <ul>
+    <li>2023年4月4日</li>
+    J-1 Grand Prix Alpha版リリース
+    https://www.edp-ken.com/tag/contents/
+<ul>
     <li>2022年11月19日</li>
     seccon2022 [ロバストL1通信競技]
     (使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" )
