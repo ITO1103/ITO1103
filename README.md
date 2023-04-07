@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I’m ITO1103(@ITO1103)
 
-Twitter:@Baby_On_Board02
+<h2>Club</h2>
+情報処理研究部[EDP-KEN]
+https://www.edp-ken.com/
