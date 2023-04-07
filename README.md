@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <ul>
     <li>College Student B2</li>
     <li>I'm a member of a very interesting club</li>
-    <li>I’m interested in security field</li>
+    <li>I'm interested in security field</li>
 </ul>
 
 <h2>Club</h2>
