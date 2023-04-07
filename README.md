@@ -33,6 +33,11 @@ https://www.edp-ken.com/
     https://www.edp-ken.com/j-1gp-1/
 </ul>
 <ul>
+    <li>2023年3月10日</li>
+    依頼されたWEBサイトの作成を開始
+    https://kobaphys.com
+</ul>
+<ul>
     <li>2022年11月19日</li>
     seccon2022 [ロバストL1通信競技]<br>
     使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
