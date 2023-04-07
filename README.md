@@ -29,7 +29,7 @@ https://www.edp-ken.com/
 <ul>
     <li>2023年4月4日</li>
     J-1 Grand Prix Alpha版リリース<br>
-    https://www.edp-ken.com/tag/contents/
+    https://www.edp-ken.com/j-1gp-1/
 </ul>
 <ul>
     <li>2022年11月19日</li>
