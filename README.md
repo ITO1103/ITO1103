@@ -34,7 +34,7 @@ https://www.edp-ken.com/
 </ul>
 <ul>
     <li>2023年3月10日</li>
-    依頼されたWEBサイトの作成を開始
+    依頼されたWEBサイトの作成を開始<br>
     https://kobaphys.com
 </ul>
 <ul>
