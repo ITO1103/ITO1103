@@ -39,12 +39,12 @@ https://www.edp-ken.com/
 </ul>
 <ul>
     <li>2023年1月27日</li>
-    Oracle CloudでWebサーバー構築開始
+    Oracle CloudでWebサーバー構築開始<br>
     http://138.2.58.38
 </ul>
 <ul>
     <li>2022年12月29日</li>
-    Raspberry Pi4 Model Bで自宅サーバー構築
+    Raspberry Pi4 Model Bで自宅サーバー構築<br>
     (現在は閉鎖中)
 </ul>
 <ul>
