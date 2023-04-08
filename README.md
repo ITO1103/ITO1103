@@ -38,6 +38,16 @@ https://www.edp-ken.com/
     https://kobaphys.com
 </ul>
 <ul>
+    <li>2023年1月27日</li>
+    Oracle CloudでWebサーバー構築開始
+    http://138.2.58.38
+</ul>
+<ul>
+    <li>2022年12月29日</li>
+    Raspberry Pi4 Model Bで自宅サーバー構築
+    (現在は閉鎖中)
+</ul>
+<ul>
     <li>2022年11月19日</li>
     seccon2022 [ロバストL1通信競技]<br>
     使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
