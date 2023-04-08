@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     <li>I'm a member of a very interesting club</li>
     <li>I'm interested in security field</li>
 </ul>
+Motto
+"The world is depending on you."
 
 <h2>Club</h2>
 情報処理研究部[EDP-KEN]<br>
