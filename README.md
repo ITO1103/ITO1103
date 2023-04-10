@@ -45,6 +45,11 @@ https://www.edp-ken.com/
     http://138.2.58.38
 </ul>
 <ul>
+    <li>2023年1月23日</li>
+    大学の授業で「HTMLのまとめ」のWebサイト作成
+    http://www.edu.ice.ous.ac.jp/~t22j209/
+</ul>
+<ul>
     <li>2022年12月29日</li>
     Raspberry Pi4 Model Bで自宅サーバー構築<br>
     (現在は閉鎖中)
