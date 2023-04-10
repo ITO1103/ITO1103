@@ -1,6 +1,6 @@
 # Web Development
 
-内容はこちら
+開発日記はこちら
 [http://138.2.58.38/Diary.html]
 
 WordPress導入前のWebページはこちら
