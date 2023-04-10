@@ -46,7 +46,7 @@ https://www.edp-ken.com/
 </ul>
 <ul>
     <li>2023年1月23日</li>
-    大学の授業で「HTMLのまとめ」のWebサイト作成
+    大学の授業で「HTMLのまとめ」のWebサイト作成<br>
     http://www.edu.ice.ous.ac.jp/~t22j209/
 </ul>
 <ul>
