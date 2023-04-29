@@ -4,4 +4,4 @@
 [https://ito1103.github.io]
 
 WordPress導入前のWebページはこちら
-[http://138.2.58.38]
+[http://152.69.200.248]
