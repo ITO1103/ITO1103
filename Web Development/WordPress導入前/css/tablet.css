@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-appearance: none;
+    -webkit-text-size-adjust: 100%;
+    user-select: none;
+    -webkit-uer-select: none;
+}
+
+@media only screen and (min-width:560px){
+    body{
+    font-size : medium;
+    /* padding-left : 5%;
+    padding-right: 5%;
+    padding-bottom: 10px; */
+    padding: 0px 5px 10px 5px;
+    }
+
+    /* classは変数の前に[.]が必要っぽい？ */
+    .button{
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        min-width: 200px;
+        height: 120px;
+        /* padding: 40px; */
+        box-sizing: border-box;
+        border: 1px solid #68779a;
+        background: #cbe8fa;
+        cursor: pointer;
+        font-size : medium;
+    }
+
+    .button:hover{
+        background: #fff;
+    }
+
+    .scroll{
+        max-width: 769px;
+        height: 150px;
+        margin-left: 0px;
+        margin-bottom: 10px;
+        overflow: scroll;
+    }
+
+    ul{
+        padding-left: 25px;
+        list-style:none;
+        margin:0;
+        padding:0;
+    }
+
+    ol{
+        padding-left: 30px;
+    }
+
+    /* h2{
+        margin: 30px 0 20px 0;
+    } */
+
+    .footer {
+        /* padding-top: 30px; */
+        font-size: 15px;
+        color: #9ca3af;
+        background: #fff;
+        margin-top: 30px;
+        border-top: solid 1px lightgray;
+    }
+      
+    .footer__navi {
+        flex-wrap: wrap;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+      
+    .footer__navi li {
+        display: inline-block;
+    }
+      
+    .footer__navi li:not(:last-child) {
+        margin-right: 16px;
+    }
+      
+    .footer__logo {
+        display: inline-block;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+      
+
+        .md-flex {
+          display: flex;
+        }
+      
+        .md-justify-between {
+          justify-content: space-between;
+        }
+      
+        .copyright {
+          text-align: left;
+        }
+    
+    
+    /* a {
+        color: #9ca3af;
+        text-decoration: none;
+    } */
+      
+    a:hover {
+        color: black;
+    }
+      
+    .flex {
+        display: flex;
+    }
+      
+
+    .copyright{
+        text-align: left;
+        font-size: small;
+    }
+
+    
+    .responsive{
+        width: 50%;
+        aspect-ratio: 16/9;
+    }
+}

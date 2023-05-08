@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>koba-phys</title>
+        <link rel="website icon" type="png" href="/Photos/Taishi.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/Photos/Taishi.png">
+        <link rel="stylesheet" href="../css/iPhone.css?202303061728" type="text/css" media="screen and (max-width: 559px)">
+        <link rel="stylesheet" href="../css/tablet.css?202303061728"media="screen and (min-width: 560px)">
+        <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    </head>
+
+    <style>
+        a {
+        color: #9ca3af;
+        text-decoration: none;
+        }
+    </style>
+
+    <body id="top">
+
+        <h1>koba phys<br>[Oracle Cloud]</h1>
+        <img id="gate" src="../Photos/Taishi.png" alt="アイコン" width="100" height="100"><br>
+        <h1>サーバー移行しました</h1>
+        <h2>移行先は<a href="https://kobaphys.com">こちら</a></h2>
+        <h1>WEBサイト開発の経歴は<a href="seccamp.html">こちら</a></h1>
+
+        <!-- javascriptによる認証 -->
+        <script type="text/javascript">
+        function gate(){
+        var UserInput = prompt("パスワードを入力して下さい:","");
+            if( /\W+/g.test(UserInput) ) {
+                alert("半角英数字のみを入力して下さい。");
+            }
+            else if( UserInput != null ) {
+                location.href = UserInput + ".html";
+            }
+        }
+        // 以下ディレクトリを超えて認証(?)する方法
+        // if( UserInput != null ) {
+        //       location.href = "/html/" + UserInput + ".html";
+        // }
+        </script>
+        <input type="button" value="パスワードを入力" onclick="gate();" class="button">
+
+        <br>
+        <hr>
+        <h3>お知らせ</h3>
+        <div class="scroll">
+            <ul>
+                <li>2/3：サーバー移行作業中なのでサイトにアクセスできなくなる可能性があります</li>
+                <li>2/3：管理者が春休みに突入したので開発を再開します</li>
+                <li>1/5：開発者が下宿先に戻りました。これにより強制再起動が必要な場合の対応が遅れます</li>
+            </ul>
+        </div>
+
+        <hr>
+        <h3>WEBサイト更新情報</h3>
+        <div class="scroll">
+            <ul>
+                <li>3/6：各種デザインを調整しました</li>
+                <li>3/6：「開発について」を最新版に更新しました</li>
+                <li>3/6：お気に入りに登録した時のアイコンを設定しました</li>
+                <li>3/5：Raspberry Piを使用したテストサーバーをクローズしました。</li>
+                <li>2/28：ファビコン(タブに表示されるアイコン)を追加しました</li>
+                <li>2/27：全体的に表示を調整しました</li>
+                <li>2/27：フッターを色々調整しました</li>
+                <li>2/27：フッターを変更しました</li>
+                <li>2/14：フッター(最下部にあるやつ)を変更しました</li>
+                <li>2/14：プライバシーポリシーの中身を記述しました</li>
+                <li>1/7：6.1インチiPhoneで表示が崩れる問題を修正しました</li>
+                <li>1/6："お知らせ"、"WEBサイト更新情報"、"確認している不具合"の３つに分類しました</li>
+                <li>1/4：サーバーを(物理的に)引っ越し、有線LAN接続になりました</li>
+                <li>1/3：[開発について]を追加しました</li>
+                <li>1/3：タブレット/デスクトップ用の表示形式を追加しました</li>
+                <li>1/2：viewportを追加しました。これにより文字の大きさが大幅に改善されました</li>
+                <li>1/2：サイト最下部のページを一部作成しました</li>
+                <li>1/1：サイト最下部によくあるやつを追加しました</li>
+                <li>1/1：更新情報・お知らせの表示方法を変更しました</li>
+                <li>1/1：更新情報・お知らせの表示形式を変更しました</li>
+                <li>1/1：webkit-appearanceを無効化することによってパスワード入力のボタンを大きくしました</li>
+                <li>1/1：文字が小さすぎる問題を解決しました</li>
+                <li>12/31：CSSに手を出し始めました</li>
+                <li>12/30：phpによる認証システムのテストを開始しました</li>
+                <li>12/30：IDとパスワードでのログイン方法のテストを開始しました</li>
+                <li>12/29：パスワード入力のキャンセルを実装しました</li>
+                <li>12/28：Raspberry Pi 4 Model Bでテストサーバーを構築しました</li>
+            </ul>
+        </div>
+
+        <hr>
+        <h3>確認している不具合</h3>
+        <div class="scroll">
+            <ul>
+                <li>現在発生中の不具合はありません</li>
+            </ul>
+        </div>
+
+        <hr>
+        <h3>困った時は</h3>
+        xxxxxxxx@xxxxxx-xxx.jpまでご連絡ください
+
+        <footer class="footer">
+            <div class="md-flex md-justify-between">
+                <a href="http://138.2.58.38" class="footer__logo">
+                <img src="/Photos/Taishi.png" width="60" height="60" alt="Taishi logo" />
+            </a>
+            <ul class="footer__navi flex">
+                <li><a href="/html/terms of service.html">利用規約</a></li>
+                <li><a href="/html/Howto.html">お気に入りへの登録方法</a></li>
+                <li><a href="/html/privacy-policy.html">プライバシーポリシー</a></li>
+                <li><a href="/html/about development.html">開発について</a></li>
+                </ul>
+            </div>
+            <hr>
+            <p class="copyright">
+                © 2023 <a href="http://138.2.58.38">Koba-phys</a> All Rights Reserved.
+            </p>
+        </footer>
+
+
+        <!-- phpによる認証 -->
+        <!-- <div class="signin">
+        <form action="" method="POST">
+        <label for="signin-id">アカウント名</label>
+        <input id="signin-id" name="username" type="text" placeholder="IDを入力"><br>
+        <label for="signin-pass">パスワード</label>
+        <input id="signin-pass" name="password" type="text" placeholder="パスワードを入力">
+        <button name="signin" type="submit">ログイン</button>
+        </form>
+        </div> -->
+    </body>
+</html>
