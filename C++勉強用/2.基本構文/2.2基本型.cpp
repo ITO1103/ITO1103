@@ -43,7 +43,7 @@ int main(){
 
     //float は 32 ビットの大きさを持ち、double は 64 ビットの大きさを持つ。 また double の方が float に比べて計算精度が高いが数値計算の パフォーマンスは低い。
     float c = 40;
-    double d = 40;
+    double d = 50;
     std::cout << c << std::endl;
     std::cout << d << std::endl;
     //float は 32 ビットの大きさを持ち、double は 64 ビットの大きさを持つ。 また double の方が float に比べて計算精度が高いですが数値計算のパフォーマンスは低い。
@@ -59,7 +59,8 @@ int main(){
         Sat, //6
     };
 
-    std::cout << Sun << std::endl;
+    //std::cout << Sat << std::endl;これはcoutすることに使うものではない？
+
     //enum の各列挙子は、内部では整数として扱われている。 各列挙子の定義の際に値を指定しなければ、 0 から順に値が割り振られる。
     //列挙子 = 整数 と書くことで値を指定することができる。値が指定された列挙子以降は、順に整数が割り振られる。
     // enum Day {
