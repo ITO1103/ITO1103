@@ -5,6 +5,7 @@
             "label": "C/C++: gcc アクティブなファイルのビルド",
             "command": "/usr/bin/gcc",
             "args": [
+                "-std=c++14",
                 "-fdiagnostics-color=always",
                 "-g",
                 "${file}",
