@@ -42,8 +42,6 @@ https://www.edp-ken.com/
 <ul>
     <li>2023年1月27日</li>
     Oracle CloudでWebサーバー構築開始<br>
-    http://152.69.200.248<br>
-    ※ミスにより当時のインスタンスが消失したので再現したもの+経歴をまとめたページを載せています
 </ul>
 <ul>
     <li>2023年1月23日</li>
@@ -54,6 +52,7 @@ https://www.edp-ken.com/
     <li>2022年12月29日</li>
     Raspberry Pi4 Model Bで自宅サーバー構築<br>
     (現在は閉鎖中)
+    https://ito1103.github.io
 </ul>
 <ul>
     <li>2022年11月19日</li>
