@@ -1,7 +1,7 @@
 これを参考に勉強しています
 https://rinatz.github.io/cpp-book/
 
-VSCodeでC++コンパイラを指定してCodeRunnerで実行するには、settings.jsonに下記を追加
+VSCodeでCodeRunnerでC++コンパイラを指定して実行するには、settings.jsonに下記を追加
 
 "code-runner.executorMap": {
         "cpp": "cd $dir && g++ -std=c++20 $fullFileName -o $fileNameWithoutExt && $dir/$fileNameWithoutExt",

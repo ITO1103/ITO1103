@@ -59,7 +59,13 @@ int main(){
         Sat, //6
     };
 
-    //std::cout << Sat << std::endl;これはcoutすることに使うものではない？
+    std::cout << Sat << std::endl;
+
+    Day day = Fri;
+    int e = Fri;
+    std::cout << day << std::endl;
+    std::cout << e << std::endl;
+    //Day day = 5;これは無理
 
     //enum の各列挙子は、内部では整数として扱われている。 各列挙子の定義の際に値を指定しなければ、 0 から順に値が割り振られる。
     //列挙子 = 整数 と書くことで値を指定することができる。値が指定された列挙子以降は、順に整数が割り振られる。
@@ -72,6 +78,49 @@ int main(){
     // Fri,      // 10
     // Sat       // 11
     // };
+
+    // enum SolarSystem {
+    //     Sun,  // Sun は enum Day 内で定義済みのためコンパイルエラー
+    //     Mercury,
+    //     Venus,
+    //     Earth,
+    //     Mars,
+    //     Jupiter,
+    //     Saturn,
+    //     Uranus,
+    //     Neptune
+    // };
+
+    enum class Month {
+        Mercury,
+        Venus,
+        Earth,
+        Mars,
+        Jupiter,
+        Saturn,
+        Uranus,
+        Neptune
+    };
+
+    enum class SolarSystem {
+        Mercury = 10, // Month::Mercury　と Solarsystem::Mercury は区別されるためOK
+        Venus,
+        Earth,
+        Mars,
+        Jupiter,
+        Saturn,
+        Uranus,
+        Neptune
+    };
+
+    Month star = Month::Mercury;
+    int f = static_cast<int>(SolarSystem::Mercury);//型変換してから代入する必要有
+
+    std::cout << static_cast<int>(star) << std::endl;//その場で型変換してもOK
+    std::cout << f << std::endl;
+
+
+     
 
     return 0;
 }
