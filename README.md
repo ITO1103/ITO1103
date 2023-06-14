@@ -42,6 +42,7 @@ https://www.edp-ken.com/
 <ul>
     <li>2023年1月27日</li>
     Oracle CloudでWebサーバー構築開始<br>
+    (現在はVPNサーバーとして使用)
 </ul>
 <ul>
     <li>2023年1月23日</li>
