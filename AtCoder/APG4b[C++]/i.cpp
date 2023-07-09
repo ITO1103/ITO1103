@@ -6,21 +6,20 @@ int main() {
   cin >> p;
  
   // パターン1
-  if (p == 1) {
-    int price;
-    cin >> price;
-  }
+  // if (p == 1) {
+  //   int price;
+  //   cin >> price;
+  // }
  
   // パターン2
   if (p == 2) {
     string text;
-    int price;
-    cin >> text >> price;
+    cin >> text;
+    cout << text << "!" << endl;
   }
  
-  int N;
-  cin >> N;
- 
-  cout << text << "!" << endl;
+  int N,price;
+  cin >> price >> N;
   cout << price * N << endl;
+  
 }
