@@ -1,1 +1,2 @@
-print('Hello World')
+s = "paiza"
+print(list(s))
