@@ -1,2 +1,7 @@
-s = "paiza"
-print(list(s))
+a = 150
+if a < 100:
+    print("変数aの値は100未満です")
+elif 100 <= a < 150:
+    print("変数aの値は100以上150未満です")
+else:
+    print("変数aの値はそれ以上です")
