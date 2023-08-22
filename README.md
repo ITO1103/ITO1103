@@ -15,51 +15,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m ITO1103(@ITO1103)
-<h2>About Me</h2>
-<ul>
-    <li>College Student B2</li>
-    <li>I'm a member of a very interesting club</li>
-    <li>I'm interested in security field and game field</li>
-</ul>
+## About Me
+
+    - College Student B2
+    - I'm a member of a very interesting club
+    - I'm interested in security field and game field
+
 Motto
 "The world is depending on you."
 
-<h2>Club</h2>
-情報処理研究部[EDP-KEN]<br>
+## Club
+情報処理研究部[EDP-KEN]  
 https://www.edp-ken.com/
 
-<h2>My Experience</h2>
-<ul>
-    <li>2023年4月4日</li>
-    J-1 Grand Prix Alpha版リリース<br>
+## My Experience
+
+    - 2023年4月4日
+    J-1 Grand Prix Alpha版リリース  
     https://www.edp-ken.com/j-1gp-1/
-</ul>
-<ul>
-    <li>2023年3月10日</li>
-    依頼されたWEBサイトの作成を開始<br>
+
+
+    - 2023年3月10日
+    依頼されたWEBサイトの作成を開始  
     https://kobaphys.com
-</ul>
-<ul>
-    <li>2023年1月27日</li>
-    Oracle CloudでWebサーバー構築開始<br>
-    (現在はVPNサーバーとして使用)
-</ul>
-<ul>
-    <li>2023年1月23日</li>
-    大学の授業で「HTMLのまとめ」のWebサイト作成<br>
+
+
+    - 2023年1月27日
+    Oracle CloudでWebサーバー構築開始  
+    (現在はTailscaleを使用したVPNサーバーとして使用)
+
+
+    - 2023年1月23日
+    大学の授業で「HTMLのまとめ」のWebサイト作成  
     http://www.edu.ice.ous.ac.jp/~t22j209/
-</ul>
-<ul>
-    <li>2022年12月29日</li>
-    Raspberry Pi4 Model Bで自宅サーバー構築<br>
+
+
+    - 2022年12月29日
+    Raspberry Pi4 Model Bで自宅サーバー構築  
     (現在は閉鎖中)
     https://ito1103.github.io
-</ul>
-<ul>
-    <li>2022年11月19日</li>
-    seccon2022 [ロバストL1通信競技]<br>
+
+
+    - 2022年11月19日
+    seccon2022 [ロバストL1通信競技]  
     使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
-</ul>
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITO1103&layout=compact&count_private=true&show_icons=true&theme=onedark" />
