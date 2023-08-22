@@ -1,2 +1,2 @@
-li = [int(x) for x in input().split()]
-print(li)
+characters = {("girl", "cute"): "kirishima", ("boy", "cool"): "kaga"}
+print(characters)
