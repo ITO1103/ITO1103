@@ -63,6 +63,6 @@ https://www.edp-ken.com/
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITO1103&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github contribution" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ITO1103">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ITO1103&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github contribution" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ITO1103">
 </p>
