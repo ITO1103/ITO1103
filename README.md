@@ -29,6 +29,9 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
+- 2023年6月3日~2023年6月4日
+    SECCON Beginners CTF 2023  
+    チーム```peripeteia```として参加
 
 - 2023年4月4日
     J-1 Grand Prix Alpha版リリース  
