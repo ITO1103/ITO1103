@@ -2,5 +2,10 @@
 using namespace std;
 
 int main(){
-    cout << "Hello world!" << endl;
+    string s,t;
+    getline(cin,s);
+    getline(cin,t);
+
+    cout << "一行目" << s << endl;
+    cout << "二行目" << t << endl;
 }
