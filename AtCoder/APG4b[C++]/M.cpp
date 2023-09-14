@@ -6,15 +6,29 @@ int main(){
     cin >> S;
 
     //ここにプログラムを追記
-    int i = 0;
-    for(i < S.size()){
-        if(i%2==1){
-            cout << S.at(i) << endl;
+    // int count1 = 0;
+    int countp = 0;
+    int countm = 0;
+    int ans = 0;
+
+    for(int i=0;i<S.size();i++){
+        // if(S.at(i) == '1'){
+        //     count1++;
+        // }
+        if(S.at(i)=='+'){
+            countp++;
         }
-        i++;
+        if(S.at(i)=='-'){
+            countm++;
+        }
     }
 
-    cout << S << endl;
+    ans = (countp + 1 - countm);
 
-    //必ず数字は一桁なので、+か-かをifで判別して、計算をさせようという魂胆です。明日の俺頑張れ
+
+    // cout << count1 << endl;
+    // cout << countp << endl;
+    // cout << countm << endl;
+    cout << ans << endl;
+
 }
