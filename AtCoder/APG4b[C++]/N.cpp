@@ -16,12 +16,11 @@ int main() {
     ans = (sum / N);
     
     for(int i=0;i<N;i++){
-        if(ans<=score.at(i)){
+        if(ans>=score.at(i)){
             difscore.at(i) = ans - score.at(i);
-        }else(ans>score.at(i)){
+        }else{
             difscore.at(i) = score.at(i) - ans;
         }
         cout << difscore.at(i) << endl;
     }
-    //マイナス表記ではない
 }
