@@ -6,11 +6,7 @@ using namespace std;
 // 返り値: 1人のテストの合計点
 int sum(vector<int> scores) {
   // ここにプログラムを追記
-  int sum = 0;
-  for(int i=0;i<scores.size();i++){
-    sum += scores.at(i);
-  }
-  return sum;
+
 }
 
 // 3人の合計点からプレゼントの予算を計算して出力する関数
@@ -20,7 +16,7 @@ int sum(vector<int> scores) {
 // 返り値: なし
 void output(int sum_a, int sum_b, int sum_c) {
   // ここにプログラムを追記
-  cout << sum_a * sum_b * sum_c << endl;
+  
 }
 
 // -------------------
