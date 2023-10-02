@@ -32,7 +32,7 @@ https://www.edp-ken.com/
 - 2023年9月30日
     第３回 SECCONCON  
     stringshot2023  
-    4位
+    4位  
     第3回 人間Cコンパイラコンテスト  
     19位  
     https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
@@ -43,6 +43,10 @@ https://www.edp-ken.com/
     Rank 418/653  
     Score 50pt  
     https://www.seccon.jp/2023/seccon_ctf/seccon_ctf_2023.html
+
+- 2023年9月6日
+    浜松聖星高校で動画講座の講師として参加  
+    https://www.edp-ken.com/post-13/
 
 - 2023年6月3日~2023年6月4日
     SECCON Beginners CTF 2023  
