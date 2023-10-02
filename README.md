@@ -29,10 +29,10 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
-- 2023年9月30日　　
+- 2023年9月30日
     第３回 SECCONCON
     - stringshot2023
-    - 第3回 人間Cコンパイラコンテスト
+    - 第3回 人間Cコンパイラコンテスト  
     の２競技に参加
 
 - 2023年6月3日~2023年6月4日
