@@ -37,6 +37,13 @@ https://www.edp-ken.com/
     - 第3回 人間Cコンパイラコンテスト  
     19位
 
+- 2023年9月16日~2023年i9月17日
+    SECCON CTF 2023 予選  
+    チーム```peripeteia```として参加  
+    Rank 418/653  
+    Score 50pt  
+    https://www.seccon.jp/2023/seccon_ctf/seccon_ctf_2023.html
+
 - 2023年6月3日~2023年6月4日
     SECCON Beginners CTF 2023  
     チーム```peripeteia```として参加  
