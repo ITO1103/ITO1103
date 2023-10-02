@@ -31,11 +31,12 @@ https://www.edp-ken.com/
 ## My Experience
 - 2023年9月30日  
     第３回 SECCONCON  
-    https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
+   
     - stringshot2023  
     4位
     - 第3回 人間Cコンパイラコンテスト  
-    19位
+    19位  
+    https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
 
 - 2023年9月16日~2023年i9月17日
     SECCON CTF 2023 予選  
