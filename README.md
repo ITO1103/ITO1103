@@ -29,6 +29,10 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
+- 2023年10月9日~2023年10月10日
+    init.g 2023
+    
+
 - 2023年9月30日
     第３回 SECCONCON  
     stringshot2023  
