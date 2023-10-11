@@ -29,7 +29,7 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
-- 2023年10月9日~2023年10月10日
+- 2023年10月9日~2023年10月10日  
     init.g 2023
     
 
