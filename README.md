@@ -29,8 +29,12 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
+- 2023年10月15日  
+第1回 LT大会「もう涼しくなってきたけ〜LT大会でもするかぁ！」  
+
 - 2023年10月9日~2023年10月10日  
-    init.g 2023
+    init.g 2023  
+  https://www.edp-ken.com/post-15/
     
 
 - 2023年9月30日
