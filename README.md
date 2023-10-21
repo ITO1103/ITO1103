@@ -29,15 +29,19 @@ Motto
 https://www.edp-ken.com/
 
 ## My Experience
-- 2023年10月15日  
+- 2023/10/21
+技育祭2023【秋】
+情報処理研究部で「みんなで見ようキャンペーン」
+
+- 2023/10/15  
 第1回 LT大会「もう涼しくなってきたけ〜LT大会でもするかぁ！」  
 
-- 2023年10月9日~2023年10月10日  
+- 2023/10/9~2023/10/10  
     init.g 2023  
   https://www.edp-ken.com/post-15/
     
 
-- 2023年9月30日
+- 2023/9/30
     第３回 SECCONCON  
     stringshot2023  
     4位  
@@ -45,49 +49,49 @@ https://www.edp-ken.com/
     19位  
     https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
 
-- 2023年9月16日~2023年9月17日
+- 2023/9/16~2023/9/17
     SECCON CTF 2023 予選  
     チーム```peripeteia```として参加  
     Rank 418/653  
     Score 50pt  
     https://www.seccon.jp/2023/seccon_ctf/seccon_ctf_2023.html
 
-- 2023年9月6日
+- 2023/9/6
     浜松聖星高校で動画講座の講師として参加  
     https://www.edp-ken.com/post-13/
 
-- 2023年6月3日~2023年6月4日
+- 2023/6/3~2023/6/4
     SECCON Beginners CTF 2023  
     チーム```peripeteia```として参加  
     https://www.seccon.jp/2023/seccon_beginners/content.html
 
-- 2023年4月4日
+- 2023/4/4
     J-1 Grand Prix Alpha版リリース  
     https://www.edp-ken.com/j-1gp-1/
 
 
-- 2023年3月10日
+- 2023/3/10
     依頼されたWEBサイトの作成を開始  
     https://kobaphys.com
 
 
-- 2023年1月27日
+- 2023/1/27
     Oracle CloudでWebサーバー構築開始  
     (現在はTailscaleを使用したVPNサーバーとして使用)
 
 
-- 2023年1月23日
+- 2023/1/23
     大学の授業で「HTMLのまとめ」のWebサイト作成  
     http://www.edu.ice.ous.ac.jp/~t22j209/
 
 
-- 2022年12月29日
+- 2022/12/29
     Raspberry Pi4 Model Bで自宅サーバー構築  
     (現在は閉鎖中)
     https://ito1103.github.io
 
 
-- 2022年11月19日
+- 2022/11/19
     seccon2022 [ロバストL1通信競技]  
     使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
 
