@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<script>
+// ここからがJavaScriptによるプログラム
+
+// ■学生番号 T22J209
+// ■氏名     伊藤駿介
+
+// 「処理実行」ボタンで実行される内容
+function main(input, output) {
+    // 画像inputをそのまま画像outputに出力する
+    //copy(input, output);
+    nega(input, output);
+}
+
+// 画像inputを，そのまま
+// 画像outputに出力する関数
+//function copy(input, output) {
+function nega(input, output) {
+    let f = [];
+    let g = [];
+    let x, y;
+    for (y = 0; y < input.height; y++) {
+        for (x = 0; x < input.width; x++) {
+            // 入力画像の座標(x, y)の画素値を配列fに得る
+            //   f[0]: R成分 (0～255)
+            //   f[1]: G成分 (0～255)
+            //   f[2]: B成分 (0～255)
+            pget(input, x, y, f);
+            
+            // RGB成分ごとに値をコピーする
+            // g[0] = f[0];
+            // g[1] = f[1];
+            // g[2] = f[2];
+            g[0] = 255 - f[0];
+            g[1] = 255 - f[1];
+            g[2] = 255 - f[2];
+            
+            // 出力画像の座標(x, y)に配列gを書き込む
+            pset(output, x, y, g);
+        }
+    }
+}
+
+// 以下，編集不要
+
+//
+// その他の関数
+//
+function onFileSelected(input) {
+    let file = input.files[0];
+    let reader = new FileReader();
+    reader.onload = loadImage;
+    reader.readAsDataURL(file);
+}
+function loadImage(e) {
+    let src = e.target.result;
+    let img = new Image();
+    img.onload = setCanvas;
+    img.src = src;
+}
+function setCanvas(e) {
+    let img = createImage(e.target);
+    document.getElementById('cv_in').width = img.width;
+    document.getElementById('cv_in').height = img.height;
+    document.getElementById('cv_in').getContext('2d').putImageData(img, 0, 0);
+    document.getElementById('cv_in').img_data = img;
+
+    document.getElementById('cv_out').width = img.width;
+    document.getElementById('cv_out').height = img.height;
+}
+function createImage(img) {
+    let c = document.createElement('canvas');
+    c.width = img.naturalWidth;
+    c.height = img.naturalHeight;
+    let ct = c.getContext('2d');
+    ct.drawImage(img, 0, 0);
+    let data = ct.getImageData(0, 0, c.width, c.height);
+    return data;
+}
+// 画像imgの座標(x, y)の画素値を取得してpixに代入する
+//   pix[0]: R成分 (0～255)
+//   pix[1]: G成分 (0～255)
+//   pix[2]: B成分 (0～255)
+function pget(img, x, y, pix)
+{
+    let index = (x + y * img.width) * 4;
+    pix[0] = img.data[index];
+    pix[1] = img.data[index + 1];
+    pix[2] = img.data[index + 2];
+}
+// 画像imgの座標(x, y)に画素pixを描く
+//   pix[0]: R成分 (0～255)
+//   pix[1]: G成分 (0～255)
+//   pix[2]: B成分 (0～255)
+function pset(img, x, y, pix)
+{
+    let index = (x + y * img.width) * 4;
+    img.data[index] = pix[0];
+    img.data[index + 1] = pix[1];
+    img.data[index + 2] = pix[2];
+    img.data[index + 3] = 255; // アルファチャネル（0で透明）
+}
+// 画像をクリックしたときの処理
+function process(e) {
+    // ページ内のcanvas要素を得る
+    let cv_in = document.getElementById('cv_in');
+    let cv_out = document.getElementById('cv_out');
+    
+    // input: ファイルから読み込んだ画像データ
+    let input = cv_in.img_data;
+    
+    // output: 画像処理結果出力用画像（inputと同じサイズ）
+    let output = cv_in.getContext('2d').createImageData(input.width, input.height);
+
+    // inputを画像処理してoutputに出力する
+    main(input, output);
+    
+    // 画像outputをページ内のcanvas要素に描く
+    cv_out.getContext('2d').putImageData(output, 0, 0);
+}
+// ここまでがJavaScriptによるプログラム
+</script>
+</head>
+<body>
+
+<!-- ここよりWebページコンテンツの記述 -->
+
+<h2>■画像処理とCG</h2>
+JavaScriptによる画像処理プログラミング
+
+<!-- ファイル読み込みボタン -->
+<p>
+<input type="file" onchange="onFileSelected(this)">
+</p>
+
+<p>
+<input type="button" value="処理実行" onclick="process()">
+</p>
+
+<p>
+■原画像<br>
+<canvas id="cv_in" width=256 height=256 style="border: 3px solid;"></canvas>
+</p>
+
+<p>
+■処理結果<br>
+<canvas id="cv_out" width=256 height=256 style="border: 3px solid;"></canvas>
+</p>
+
+</body>
+</html>
