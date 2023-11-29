@@ -1,12 +1,12 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
-int main() {
-    double d;
-    int n;
-    cin >> d >> n;
-    string str = "%.";
-    str += to_string(n);
-    str += "f\n";
 
-    printf(str.c_str(), d);
+int main() {
+    string S;
+    for (int i = 0; i < 2; ++i) {
+        getline(cin, S, ',');
+        cout << S << endl;
+    }
+    getline(cin, S);
+    cout << S << endl;
 }
