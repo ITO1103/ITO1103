@@ -1,0 +1,50 @@
+shimada@pc04:~/2019C/2019C1-source/section7$ prac2-2
+calcPct関数
+s=20
+sのアドレス 0x7ffe5f3f2f2c
+z=200
+zのアドレス 0x7ffe5f3f2f28
+pctのアドレス 0x7ffe5f3f2f20
+pctが指すアドレス 0x7ffe5f3f2f60
+pctが指すアドレスが持つ値 10.000000
+main関数
+20 は 200 の 10.000000パーセントです。
+a=20
+aのアドレス 0x7ffe5f3f2f58
+b=200
+bのアドレス 0x7ffe5f3f2f5c
+pct=10.000000
+pctのアドレス 0x7ffe5f3f2f60
+
+アドレス      内容	変数名
+
+0x7ffe5f3f2f20	0x7ffe5f3f2f60	pct（ポインタ）
+0x7ffe5f3f2f21
+0x7ffe5f3f2f22
+0x7ffe5f3f2f23
+0x7ffe5f3f2f24
+0x7ffe5f3f2f25
+0x7ffe5f3f2f26
+0x7ffe5f3f2f27
+0x7ffe5f3f2f28	200		z
+0x7ffe5f3f2f29
+0x7ffe5f3f2f2a
+0x7ffe5f3f2f2b
+0x7ffe5f3f2f2c	20		s
+0x7ffe5f3f2f2d
+0x7ffe5f3f2f2e
+0x7ffe5f3f2f2f
+       …
+0x7ffe5f3f2f58	20		a
+0x7ffe5f3f2f59
+0x7ffe5f3f2f5a
+0x7ffe5f3f2f5b
+0x7ffe5f3f2f5c	200		b
+0x7ffe5f3f2f5d
+0x7ffe5f3f2f5e
+0x7ffe5f3f2f5f
+0x7ffe5f3f2f60	10.000000	pct
+0x7ffe5f3f2f61
+0x7ffe5f3f2f62
+0x7ffe5f3f2f63
+

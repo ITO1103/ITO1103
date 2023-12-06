@@ -1,0 +1,58 @@
+﻿学生番号：T22J209
+氏名　　：伊藤駿介
+
+========================================================
+レポート課題 rep1-1.c
+
+・プログラムリスト
+#include <stdio.h>
+int main(void){
+    int a=0,b=100,tpm;
+    int *pA,*pB;
+    printf("befor:a=%d, b=%d\n", a, b);
+    pA = &a;
+    pB = &b;
+    tpm = *pA;
+    *pA = *pB;
+    *pB = tpm;
+    printf("after:a=%d, b=%d\n", a, b);
+    return 0;
+}
+
+・実行結果
+befor:a=0, b=100
+after:a=100, b=0
+
+以上を転記して提出してください。
+
+
+
+
+========================================================
+レポート課題 rep1-2.c
+
+・プログラムリスト
+#include <stdio.h>
+int main(void){
+    double a=-1.1, b=4.2, c=-0.1;
+    double *pA,*pB,*pC,*pMax;
+    pA = &a;
+    pB = &b;
+    pC = &c;
+    if(*pA > *pB){
+        pMax = pA;
+    }else if(*pB > *pC){
+        pMax = pB;
+    }else if(*pC > *pA){
+        pMax = pC;
+    }
+    printf("最大値は%f\n", *pMax);
+    return 0;
+}
+
+・実行結果
+最大値は4.200000
+
+以上を転記して提出してください。
+
+

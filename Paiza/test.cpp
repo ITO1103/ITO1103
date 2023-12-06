@@ -2,11 +2,8 @@
 using namespace std;
 
 int main() {
-    int s;
-    cin >> s;
-    if(s <= 100){
-        cout << "YES" << endl;
-    }else{
-        cout << "NO" << endl;
-    }
+    int N;
+    cin >> N;
+    cout << setw(3) << setfill(' ') << N << endl;
+
 }

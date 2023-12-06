@@ -1,0 +1,33 @@
+﻿学生番号：自分の学生番号を記入しなさい
+氏名　　：自分の氏名を記入しなさい
+
+========================================================
+レポート課題 rep2-1.c
+
+・プログラムリスト
+#include <stdio.h>
+
+void convUnitsofLength(int length, double *feet, double *yard, double *inch){
+    *feet = length * 3.28084;
+    *yard = length * 1.09361;
+    *inch = length * 39.37008;
+}
+
+int main(void){
+    int length;
+    double feet,yard,inch;
+    printf("変換する長さを入力して下さい：");
+    scanf("%d",&length);
+    convUnitsofLength(length,&feet,&yard,&inch);
+    printf("%d[m]は%f[ft],%f[yd],%f[inch]です。\n",length,feet,yard,inch);
+    return 0;
+}
+・実行結果
+変換する長さを入力して下さい：1
+1[m]は3.280840[ft],1.093610[yd],39.370080[inch]です。
+
+以上を転記して提出してください。
+
+
+
+

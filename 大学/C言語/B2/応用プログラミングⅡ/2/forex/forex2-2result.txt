@@ -1,0 +1,37 @@
+shimada@pc04:~/2019C/2019C1-source/section7$ forex2-2
+s1=10, s2=20
+swap
+&x = 0x7fff817f869c, &y = 0x7fff817f8698, &tmp = 0x7fff817f86a4
+s1=10, s2=20
+&s1 = 0x7fff817f86c0, &s2 = 0x7fff817f86c4
+
+※プロセス終了直前、またswap関数から処理を抜ける直前を同時並行的に記述
+
+アドレス	      内容  変数名
+0x7fff817f8698	      20    y
+0x7fff817f8699
+0x7fff817f869a
+0x7fff817f869b
+0x7fff817f869c	      10    x
+0x7fff817f869d
+0x7fff817f869e
+0x7fff817f869f
+      …
+0x7fff817f86a4	      10    tmp
+0x7fff817f86a5
+0x7fff817f86a6
+0x7fff817f86a7
+      …
+0x7fff817f86c0		10	s1
+0x7fff817f86c1
+0x7fff817f86c2
+0x7fff817f86c3
+0x7fff817f86c4		20	s2
+0x7fff817f86c5
+0x7fff817f86c6
+0x7fff817f86c7
+
+swap関数とmain関数のs1,s2, x,yは違うもの。だから
+swap関数内で処理ができてもmain関数のその結果は伝えられない。
+これまでの知識では、関数で処理した値は１つしか呼び出し元に
+返されない。
