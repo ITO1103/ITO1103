@@ -1,0 +1,109 @@
+*{
+    /* margin: 0;
+    padding: 0;
+    -webkit-appearance: none;
+    -webkit-text-size-adjust: 100%;
+    user-select: none;
+    -webkit-uer-select: none; */
+}
+/* 365pxから表示が正しくなる */
+@media screen and (max-width:520px){
+    body{
+    font-size : medium;
+    }
+    h2{
+        border-top: 0.02em
+        double black;
+        border-bottom:0.02em double black ;
+        width: 300px;
+        font-weight: 100px;
+        text-align: center;
+    }
+
+    table{
+        border:1px solid black; 
+        border-spacing:0px;
+        max-width:300px;
+    }
+    th,td{
+        border:1px solid black
+    }
+    .scroll{
+        max-width: 384px;
+        height: 250px;
+        /* margin-top: 10px; */
+        margin-left: 0px;
+        margin-bottom: 10px;
+        overflow: scroll;
+        /* min-width: 480px; */
+        padding-left: 25px;
+    }
+    pre{
+        width:280px;
+        word-break: break-all;
+        white-space: pre;           /* CSS 2.0 */
+        white-space: pre-wrap;      /* CSS 2.1 */
+        white-space: pre-line;      /* CSS 3.0 */
+        white-space: -pre-wrap;     /* Opera 4-6 */
+        white-space: -o-pre-wrap;   /* Opera 7 */
+        white-space: -moz-pre-wrap; /* Mozilla */
+        white-space: -hp-pre-wrap;  /* HP Printers */
+        word-wrap: break-word;      /* IE 5+ */
+    }
+    .button{
+        width: 75%;
+        min-width: 200px;
+        /* max-width: 600px; */
+        padding: 40px;
+        box-sizing: border-box;
+        border: 1px solid #68779a;
+        background: #cbe8fa;
+        cursor: pointer;
+        font-size : medium;
+    }    
+    footer{
+        width: 100%;
+        height: 65px;
+        background-color: rgba(174, 177, 181, 0.605);
+        text-align: center;
+        font-size: small;
+        font-family: 'M PLUS Rounded 1c', sans-serif;
+        font-family: 'Sawarabi Mincho', serif;
+        font-family: 'M PLUS Rounded 1c', sans-serif;
+        font-family: 'Sawarabi Mincho', serif;
+    }
+
+    ul.footer-menu li {
+        border-right: 1px solid rgb(11, 12, 13);
+        display: inline;
+        margin-right: 3px;
+        display: inline-block;
+        margin-top: 3px;
+        white-space: nowrap;
+    }
+
+    a.ul-footer{
+        
+        margin-right: 3px;
+        padding-right: 3px;
+        display: inline-block;
+        margin-top: 3px;
+        white-space: nowrap;
+        padding-left: 3px;
+        font-size: x-small;
+    }
+
+    ul.footer-menu li:last-child {
+        border: none;
+        margin: 0;
+        padding: 0;
+  }
+
+    a.ul-footer{
+        color: rgba(92, 91, 91, 0.954);
+        text-decoration: none;
+        text-align: center;
+    }
+    /* classは変数の前に[.]が必要っぽい？ */
+    
+}
