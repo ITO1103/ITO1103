@@ -1,21 +1,25 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {
-    for(int i=0;i<9;i++){
-        for(int j=0;j<9;j++){
-            if(j==8){
-                cout << setw(2) << setfill(' ') << (i+1)*(j+1) << endl;
-            }else{
-                cout << setw(2) << setfill(' ') << (i+1)*(j+1) << " | ";
+int main() {  
+    int H,W,A,B;
+    cin >> H >> W >> A >> B;
+    for(int i=0;i<H;i++){
+        for(int j=0;j<W;j++){
+            cout << "(" <<A << ", " << B << ")";
+            if(j<W-1){
+                cout << " | ";
             }
         }
-        if(i<8){
-            for(int j=0;j<9 * 2 + 3 * 8;j++){
-            cout << "=";
+        if(i<H-1){
+            cout << endl;
+            for(int k=0;k<6*W+3*(W-1);k++){
+                cout << "=";
+            }
+            cout << endl;
+        }else{
+            cout << endl;
         }
-        cout << endl;
-        }
-        
+       
     }
 }
