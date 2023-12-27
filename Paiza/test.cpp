@@ -1,25 +1,17 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main() {  
-    int H,W,A,B;
-    cin >> H >> W >> A >> B;
-    for(int i=0;i<H;i++){
-        for(int j=0;j<W;j++){
-            cout << "(" <<A << ", " << B << ")";
-            if(j<W-1){
-                cout << " | ";
-            }
+int main() {
+    int a[3][3];
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            cin >> a[i][j];
         }
-        if(i<H-1){
-            cout << endl;
-            for(int k=0;k<6*W+3*(W-1);k++){
-                cout << "=";
-            }
-            cout << endl;
-        }else{
-            cout << endl;
+    }
+    for(int i=0;i<3;i++){
+        for(int j=0;j<3;j++){
+            cout << a[i][j] << " ";
         }
-       
+        cout << endl;
     }
 }
