@@ -2,16 +2,18 @@
 using namespace std;
 
 int main() {
-    int a[3][3];
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
-            cin >> a[i][j];
+    int n,i=0;
+    cin >> n;
+    int m[n];
+    //int a[m[i]];
+    for (int i=0; i<n; i++) {
+        cin >> m[i];
+        //int a[m[i]];
+        for(int j=0; j<m[i]; j++) {
+            cin >> a[j];
         }
     }
-    for(int i=0;i<3;i++){
-        for(int j=0;j<3;j++){
-            cout << a[i][j] << " ";
-        }
-        cout << endl;
+    for(int j=0;j<m[i];j++){
+        cout << a[j] << " ";
     }
 }
