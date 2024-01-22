@@ -1,8 +1,8 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
-
-int main(){
-    int H,W,r,c;
+int main() {
+    int H, W, r, c;
     cin >> H >> W >> r >> c;
     vector<string> arr(H);
     for (int i = 0; i < H; i++) {
