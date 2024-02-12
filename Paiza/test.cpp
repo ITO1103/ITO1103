@@ -14,4 +14,11 @@ int main(){
 		cin >> x;
 		S[s] = x;
 	}
+	for(int i=0;i<Q;i++){
+		string t;
+		cin >> t;
+		T[t] = 0;
+
+	}
+	
 }

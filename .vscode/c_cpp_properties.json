@@ -5,15 +5,15 @@
             "includePath": [
                 //"${workspaceFolder}/**"
                 //"/usr/local/bin/bits/**"
-                "/usr/local/bin/g++-13"
+                "/usr/local/bin/"
             ],
             "defines": [],
             "macFrameworkPath": [
                 "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
             ],
-            "compilerPath": "/usr/local/bin/bits/stdc++.h",
-            "cStandard": "c13",
-            "cppStandard": "c++13",
+            "compilerPath": "/usr/local/bin/g++-13",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
             "intelliSenseMode": "gcc-x64"
         }
     ],
