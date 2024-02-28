@@ -28,6 +28,10 @@ Motto
 情報処理研究部[EDP-KEN]  
 https://www.edp-ken.com/
 
+## In development
+Unity版 J-1 Grand Prix
+https://gitlab.ciphergrus.com/suisan/unity
+
 ## My Experience
 - 2023/10/21  
 技育祭2023【秋】  
