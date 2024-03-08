@@ -1,24 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include <bits/stdc++.h>
 
-int main(){
-	int N,Q;
-	map<string,int> S;
-	map<string,int> T;
-	cin >> N >> Q;
-
-	for(int i=0;i<N;i++){
-		string s;
-		int x;
-		cin >> s;
-		cin >> x;
-		S[s] = x;
-	}
-	for(int i=0;i<Q;i++){
-		string t;
-		cin >> t;
-		T[t] = 0;
-
-	}
-	
+int32_t main(){
+	std::vector<int64_t> v = {0, 100, 20000};
+	std::cout << v[1] << std::endl;
+	return 0;
 }
