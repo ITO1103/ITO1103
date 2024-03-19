@@ -1,7 +1,12 @@
 #include <bits/stdc++.h>
+using namespace std;
 
-int32_t main(){
-	std::vector<int64_t> v = {0, 100, 20000};
-	std::cout << v[1] << std::endl;
-	return 0;
+int main(){
+    int N = 0;
+    int A,B,C;
+    cin >> A >> B >> C;
+    N = N + A;
+    N = N * B;
+    N = N % C;
+    cout << N << endl;
 }

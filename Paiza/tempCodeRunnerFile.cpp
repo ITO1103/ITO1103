@@ -1,2 +1,8 @@
+#include <bits/stdc++.h>
+using namespace std;
 
-    for(int i=0;i<N;i++){
+int main() {
+    double N,M;
+    cin >> N >> M;
+    cout << setprecision(M) << N+1 << endl;
+}
