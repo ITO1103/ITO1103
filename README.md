@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 👋 Hi, I’m ITO1103(@ITO1103)
 ## About Me
 
-- College Student B2
+- College Student B3
 - I'm a member of a very interesting club
 - I'm interested in security field and game field
 
