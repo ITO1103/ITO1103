@@ -29,10 +29,22 @@ Motto
 https://www.edp-ken.com/
 
 ## In development
-Unity版 J-1 Grand Prix
+Unity版 J-1 Grand Prix  
+https://www.edp-ken.com/j1gp/  
 https://gitlab.ciphergrus.com/suisan/unity
 
+Unreal Engine版　J! Grand Prix  
+https://www.edp-ken.com/j1gpue/
+
+
 ## My Experience
+- 2024/3/23  
+セキュリティ・ミニキャンプ in 大阪　2024 専門講座  
+https://www.security-camp.or.jp/minicamp/hiroshima2023.html
+
+- 2024/1/1 ~ 2024/12/31  
+Google init.g Alumni mentorship program
+
 - 2023/10/21  
 技育祭2023【秋】  
 情報処理研究部で「みんなで見ようキャンペーン」
