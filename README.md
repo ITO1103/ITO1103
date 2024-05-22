@@ -42,11 +42,11 @@ https://www.edp-ken.com/j1gpue/
 DevSecOpsThon GMO at ktiaQ  
 https://developers.gmo.jp/kitaq/devsecopsthon2024/
 
-- 2024/3/23  
+- 2024/03/23  
 セキュリティ・ミニキャンプ in 大阪　2024 専門講座  
 https://www.security-camp.or.jp/minicamp/hiroshima2023.html
 
-- 2024/1/1 ~ 2024/12/31  
+- 2024/01/01 ~ 2024/12/31  
 Google init.g Alumni mentorship program
 
 - 2023/10/21  
@@ -57,12 +57,12 @@ Google init.g Alumni mentorship program
 第1回 LT大会「もう涼しくなってきたけ〜LT大会でもするかぁ！」  
 登壇者
 
-- 2023/10/9~2023/10/10  
+- 2023/10/09~2023/10/10  
     Google init.g 2023  
   https://www.edp-ken.com/post-15/
     
 
-- 2023/9/30
+- 2023/09/30
     第３回 SECCONCON  
     stringshot2023  
     4位  
@@ -70,38 +70,38 @@ Google init.g Alumni mentorship program
     19位  
     https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
 
-- 2023/9/16~2023/9/17
+- 2023/09/16~2023/09/17
     SECCON CTF 2023 予選  
     チーム```peripeteia```として参加  
     Rank 418/653  
     Score 50pt  
     https://www.seccon.jp/2023/seccon_ctf/seccon_ctf_2023.html
 
-- 2023/9/6
+- 2023/09/06
     浜松聖星高校で動画講座の講師として参加  
     https://www.edp-ken.com/post-13/
 
-- 2023/6/3~2023/6/4
+- 2023/06/03~2023/06/04
     SECCON Beginners CTF 2023  
     チーム```peripeteia```として参加  
     https://www.seccon.jp/2023/seccon_beginners/content.html
 
-- 2023/4/4
+- 2023/04/04
     J-1 Grand Prix Alpha版リリース  
     https://www.edp-ken.com/j-1gp-1/
 
 
-- 2023/3/10
+- 2023/03/10
     依頼されたWEBサイトの作成を開始  
     https://kobaphys.com
 
 
-- 2023/1/27
+- 2023/01/27
     Oracle CloudでWebサーバー構築開始  
     (現在はTailscaleを使用したVPNサーバーとして使用)
 
 
-- 2023/1/23
+- 2023/01/23
     大学の授業で「HTMLのまとめ」のWebサイト作成  
     http://www.edu.ice.ous.ac.jp/~t22j209/
 
