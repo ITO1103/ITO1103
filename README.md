@@ -38,6 +38,10 @@ https://www.edp-ken.com/j1gpue/
 
 
 ## My Experience
+- 2024/04/27 ~ 2024/04/30  
+DevSecOpsThon GMO at ktiaQ  
+https://developers.gmo.jp/kitaq/devsecopsthon2024/
+
 - 2024/3/23  
 セキュリティ・ミニキャンプ in 大阪　2024 専門講座  
 https://www.security-camp.or.jp/minicamp/hiroshima2023.html
@@ -51,10 +55,10 @@ Google init.g Alumni mentorship program
 
 - 2023/10/15  
 第1回 LT大会「もう涼しくなってきたけ〜LT大会でもするかぁ！」  
-発表者
+登壇者
 
 - 2023/10/9~2023/10/10  
-    init.g 2023  
+    Google init.g 2023  
   https://www.edp-ken.com/post-15/
     
 
