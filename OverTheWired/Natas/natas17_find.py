@@ -3,7 +3,7 @@ import time
 
 url = 'http://natas17.natas.labs.overthewire.org/'
 username = 'natas17'
-password = 'XkEuChE0SbnKBvH1RU7ksIb9uuLmI7sd'
+password = 'EqjHJbo7LFNb8vwhHb9s75hokh5TF0OC'
 payload = "1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
 used_chars = ""
 
@@ -27,3 +27,4 @@ for char in payload:
 
 print(f"Used characters: {used_chars}")
 
+# 146BCDGJKLOPRVZbdgjlpxy

@@ -3,8 +3,8 @@ import time
 
 url = 'http://natas17.natas.labs.overthewire.org/index.php'
 username = 'natas17'
-password = 'XkEuChE0SbnKBvH1RU7ksIb9uuLmI7sd'
-known_chars = "468DEFGJLNPQUVZagknoquvwx"
+password = 'EqjHJbo7LFNb8vwhHb9s75hokh5TF0OC'
+known_chars = "146BCDGJKLOPRVZbdgjlpxy"
 
 session = requests.Session()
 session.auth = (username, password)
@@ -36,3 +36,5 @@ while len(found_password) < 32:
     found_password += next_char
 
 print("Generated password:", found_password)
+
+# 6OG1PbKdVjyBlpxgD4DDbRG6ZLlCGgCJ

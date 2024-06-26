@@ -1,7 +1,7 @@
 import requests
 
 target = 'http://natas19.natas.labs.overthewire.org'
-auth = ('natas19','8LMJEhKFbMKIL2mxQKjv0aEDdk7zpT0s')
+auth = ('natas19','tnwER7PdfWkxsG4FNWUtoAZ9VyZTJqJr')
 params = dict(username='admin', password='pass')
 cookies = dict()
 
