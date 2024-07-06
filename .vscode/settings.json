@@ -80,7 +80,10 @@
         "xstring": "cpp",
         "utility": "cpp",
         "xtree": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "iterator": "cpp",
+        "set": "cpp",
+        "xiosbase": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
