@@ -31,13 +31,15 @@ https://www.edp-ken.com/
 ## In development
 Unity版 J-1 Grand Prix  
 https://www.edp-ken.com/j1gp/  
-https://gitlab.ciphergrus.com/suisan/unity
+https://gitlab.ciphergrus.com/j1gp-unity/unity
 
 Unreal Engine版　J! Grand Prix  
 https://www.edp-ken.com/j1gpue/
 
 
 ## My Experience
+- 2024  
+SecHack365
 - 2024/04/27 ~ 2024/04/30  
 DevSecOpsThon GMO at ktiaQ  
 https://developers.gmo.jp/kitaq/devsecopsthon2024/
