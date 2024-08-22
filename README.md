@@ -39,7 +39,11 @@ https://www.edp-ken.com/j1gpue/
 
 ## My Experience
 - 2024  
-SecHack365
+セキュリティ・キャンプ全国大会2024 A【IoTセキュリティクラス】  
+
+- 2024  
+SecHack365 学習駆動コース コンテンツゼミ  
+
 - 2024/04/27 ~ 2024/04/30  
 DevSecOpsThon GMO at ktiaQ  
 https://developers.gmo.jp/kitaq/devsecopsthon2024/
