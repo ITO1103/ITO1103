@@ -17,110 +17,46 @@ Here are some ideas to get you started:
 👋 Hi, I’m ITO1103(@ITO1103)
 ## About Me
 
-- College Student B3
-- I'm a member of a very interesting club
+- College Student B4
 - I'm interested in security field and game field
-
-Motto
-"The world is depending on you."
 
 ## Club
 情報処理研究部[EDP-KEN]  
 https://www.edp-ken.com/
 
 ## In development
-Unity版 J-1 Grand Prix  
-https://www.edp-ken.com/j1gp/  
+[J-1 Grand Prix Unity Edition](https://www.edp-ken.com/j1gp/)  
 https://gitlab.ciphergrus.com/j1gp-unity/unity
 
-Unreal Engine版　J! Grand Prix  
-https://www.edp-ken.com/j1gpue/
+
+[J!Grand Prix (UE5) ](https://www.edp-ken.com/j1gpue/)
+
+[S4FE PARTY](https://babyonboard.itch.io/s4fe-party)
 
 
 ## My Experience
-- 2024  
-セキュリティ・キャンプ全国大会2024 A【IoTセキュリティクラス】  
+![Static Badge](https://img.shields.io/badge/seccamp%20A%5BIoT%5D-2024-blue)
 
-- 2024  
-SecHack365 学習駆動コース コンテンツゼミ  
+![Static Badge](https://img.shields.io/badge/SecHack365%20%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%82%BC%E3%83%9F-2024-red)
 
-- 2024/04/27 ~ 2024/04/30  
-DevSecOpsThon GMO at ktiaQ  
-https://developers.gmo.jp/kitaq/devsecopsthon2024/
+![Static Badge](https://img.shields.io/badge/DevSecOpsThon%20GMO%20at%20ktiaQ-2024-blue)
 
-- 2024/03/23  
-セキュリティ・ミニキャンプ in 大阪　2024 専門講座  
-https://www.security-camp.or.jp/minicamp/hiroshima2023.html
+![Static Badge](https://img.shields.io/badge/secminicamp-2024Osaka-blue)
 
-- 2024/01/01 ~ 2024/12/31  
-Google init.g Alumni mentorship program
+![Static Badge](https://img.shields.io/badge/init.g-2023Tokyo-green)
 
-- 2023/10/21  
-技育祭2023【秋】  
-情報処理研究部で「みんなで見ようキャンペーン」
+![Static Badge](https://img.shields.io/badge/%E6%8A%80%E8%82%B2%E7%A5%AD-2023%E7%A7%8B-blue)
 
-- 2023/10/15  
-第1回 LT大会「もう涼しくなってきたけ〜LT大会でもするかぁ！」  
-登壇者
+![Static Badge](https://img.shields.io/badge/OkayamaRevngersLT-%231-blue)
 
-- 2023/10/09~2023/10/10  
-    Google init.g 2023  
-  https://www.edp-ken.com/post-15/
-    
+![Static Badge](https://img.shields.io/badge/SECCONCON-2023-blue)
 
-- 2023/09/30
-    第３回 SECCONCON  
-    stringshot2023  
-    4位  
-    第3回 人間Cコンパイラコンテスト  
-    19位  
-    https://www.seccon.jp/2023/seccon_contest/secconcon_1.html
+![Static Badge](https://img.shields.io/badge/SECCON%20CTF-2023-blue)
 
-- 2023/09/16~2023/09/17
-    SECCON CTF 2023 予選  
-    チーム```peripeteia```として参加  
-    Rank 418/653  
-    Score 50pt  
-    https://www.seccon.jp/2023/seccon_ctf/seccon_ctf_2023.html
+![Static Badge](https://img.shields.io/badge/SECCON%20Beginners%20CTF-2023-blue)
 
-- 2023/09/06
-    浜松聖星高校で動画講座の講師として参加  
-    https://www.edp-ken.com/post-13/
+![Static Badge](https://img.shields.io/badge/SECCONCON-2022-blue)
 
-- 2023/06/03~2023/06/04
-    SECCON Beginners CTF 2023  
-    チーム```peripeteia```として参加  
-    https://www.seccon.jp/2023/seccon_beginners/content.html
-
-- 2023/04/04
-    J-1 Grand Prix Alpha版リリース  
-    https://www.edp-ken.com/j-1gp-1/
-
-
-- 2023/03/10
-    依頼されたWEBサイトの作成を開始  
-    https://kobaphys.com
-
-
-- 2023/01/27
-    Oracle CloudでWebサーバー構築開始  
-    (現在はTailscaleを使用したVPNサーバーとして使用)
-
-
-- 2023/01/23
-    大学の授業で「HTMLのまとめ」のWebサイト作成  
-    http://www.edu.ice.ous.ac.jp/~t22j209/
-
-
-- 2022/12/29
-    Raspberry Pi4 Model Bで自宅サーバー構築  
-    (現在は閉鎖中)
-    https://ito1103.github.io
-
-
-- 2022/11/19
-    seccon2022 [ロバストL1通信競技]  
-    使用プログラム : "https://github.com/siso5/siso5/blob/main/seccon2022/peripeteia.ino" 
 
 
 <p align="left"> 
