@@ -17,12 +17,8 @@ Here are some ideas to get you started:
 👋 Hi, I’m ITO1103(@ITO1103)
 ## About Me
 
-- College Student B4
+- M1
 - I'm interested in security field and game field
-
-## Club
-情報処理研究部[EDP-KEN]  
-https://www.edp-ken.com/
 
 ## Project
 [J1 Grand Prix (Unity) ](https://www.edp-ken.com/j1gp/)
